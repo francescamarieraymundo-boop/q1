@@ -3,23 +3,19 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/francescamarieraymundo-boop/q1)
 
-## Project Overview
+# Annex A
+## Identify the main problem
 
-A comprehensive README-style document for the "ctskillsArayatLN" project. Replace the placeholder text below with specific information about the project, usage, and contribution process.
+The PSHS school canteen crowds during break times and lunch periods. The vendors lack a system, hence manual labor is done, causing inefficiency
 
 ## Table of Contents
 
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Examples](#examples)
-- [Configuration](#configuration)
-- [Development](#development)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+1. Tracking food inventory - Food stock is not tracked correctly, so it would take time to manually view the inventory and see what to order in bulk. This would take days before an, essentially popular, item is restocked.
+2. Long queues - Students are affected by the long waiting times. In unlucky situations, they end up not eating at all when the queue takes too long and fills the entire period before they could even order.
+3. u
+4. Slow payment methods - As everything is manual, the student would take too long to order given the lack of a clear structure of ordering. Alongside this, labels aren't clear so it may affect the student's choices.
 
+   
 ## Features
 
 - Feature 1: Short description of a key capability.
