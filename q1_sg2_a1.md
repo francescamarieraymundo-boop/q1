@@ -26,7 +26,7 @@ The PSHS school canteen crowds during break times and lunch periods. The vendors
 | :--- | :---: | ---: |
 | No system for food stock | Pattern recognition | Moniter patterns and trends of sales and popular, high in demand items |
 | Long queues | Decomposition | Identify the core reasons, lack of sufficient payment methods and factoring in student's personal decisiveness and environmental factors |
-|  No program for calculation | Generalization/Algorithmic Thinking | - Generalization: Making a general program for payment and ordering in general, involving digital payment methods alongside di[...]
+|  No program for calculation | Generalization/Algorithmic Thinking | - Generalization: Making a general program for payment and ordering in general, involving digital payment methods alongside di
 |  Slow payment methods and ordering time | Algorithmic thinking | Structured steps for ordering and a clear, adaptable system |
 
 ## Step 4. Pseudocode
