@@ -6,7 +6,7 @@
 | | |
 | :--- | :--- |
 | *Section:* Arayat | *Score*: ___ |
-| *C# Name:* 28# Keisha Abbiel B. Ramos (Pseudocode, Information) : 29# Francesca Marie A. Raymundo (Coder, Information) : 30# Aila Yumi P. Sabado (Member) | *Date08:* 13//26 |
+| *C# Name:* 28# Keisha Abbiel B. Ramos (Pseudocode, Information) : 29# Francesca Marie A. Raymundo (Coder, Information) : 30# Aila Yumi P. Sabado (Member) | *Date:* 08/13//26 |
 
 # Annex A
 ## Step 1. Main problem
