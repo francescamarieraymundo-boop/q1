@@ -17,7 +17,7 @@ The PSHS school canteen crowds during break times and lunch periods. The vendors
 
 1. No system for food stock - Food stock is not tracked correctly, so it would take time to manually view the inventory and see what to order in bulk. This would take days before an, essentially popular, item is restocked.
 2. Long queues - Students are affected by the long waiting times. In unlucky situations, they end up not eating at all when the queue takes too long and fills the entire period before they could even order.
-3.  No program for calculation - Manual calculation of totals and change. This contributes to the time problem, and risks miscalculation alongside inefficient methods as they lack a program to make it easier.
+3. No program for calculation - Manual calculation of totals and change. This contributes to the time problem, and risks miscalculation alongside inefficient methods as they lack a program to make it easier.
 4. Slow payment methods - As everything is manual, the student would take too long to order given the lack of a clear structure of ordering. Alongside this, labels aren't clear so it may affect the students choices.
 
  
