@@ -11,7 +11,7 @@
 # Annex A
 ## Step 1. Main problem
 
-The PSHS school canteen crowds during break times and lunch periods. The vendors lack a system, hence manual labor is done, causing inefficiency
+The PSHS school canteen crowds during break times and lunch periods. The vendors lack a system and is done with manual labor, proving inefficient.
 
 ## Step 2. Sub problems
 
@@ -22,11 +22,11 @@ The PSHS school canteen crowds during break times and lunch periods. The vendors
 
  
 ## Step 3. Table
-| Sub-problem | CT-Skill | Example Soluition |
+| Sub-problem | CT-Skill | Example Solution |
 | :--- | :---: | ---: |
-| No system for food stock | Pattern recognition | Moniter patterns and trends of sales and popular, high in demand items |
+| No system for food stock | Pattern recognition | Monitor patterns and trends of sales and popular, high in demand items |
 | Long queues | Decomposition | Identify the core reasons, lack of sufficient payment methods and factoring in student's personal decisiveness and environmental factors |
-|  No program for calculation | Generalization/Algorithmic Thinking |  Making a structured program or code for calculation. This includes the items, the prices, the input and the outputs |
+|  No program for calculation | Algorithmic Thinking |  Making a structured program or code for calculation. This includes the items, the prices, the input and the outputs |
 |  Slow payment methods and ordering time | Algorithmic thinking | Structured steps for ordering and a clear, adaptable system |
 
 ## Step 4. Pseudocode
