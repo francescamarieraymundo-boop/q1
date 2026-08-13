@@ -4,7 +4,7 @@
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/francescamarieraymundo-boop/q1)
 
 ### Members
-- Keisha Abbiek B. Ramos (Pseudocode, Information) 
+- Keisha Abbiel B. Ramos (Pseudocode, Information) 
 - Francesca Marie A. Raymundo (Coder, Information)
 - Aila Yumi P. Sabado
 
