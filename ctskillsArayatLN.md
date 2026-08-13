@@ -79,7 +79,7 @@ Repeat the observation and improvement process
 
 END
 
-3. No program for calculation (I couldn't decide between generalization and AT, but the program for AT makes more sense,, here's both though)
+3. No program for calculation (Both)
 
 - Generalization:
 
