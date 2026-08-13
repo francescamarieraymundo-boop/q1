@@ -21,7 +21,7 @@ The PSHS school canteen crowds during break times and lunch periods. The vendors
 3.  No program for calculation - Manual calculation of totals and change. This contributes to the time problem, and risks miscalculation alongside inefficient methods as they lack a program to make it easier.
 4. Slow payment methods - As everything is manual, the student would take too long to order given the lack of a clear structure of ordering. Alongside this, labels aren't clear so it may affect the students choices.
 
-   
+ 
 ## Step 3. Table
 | Sub-problem | CT-Skill | Example Soluition |
 | :--- | :---: | ---: |
@@ -37,78 +37,52 @@ The PSHS school canteen crowds during break times and lunch periods. The vendors
 
 START
 FOR each day:
-Record the quantity sold for every food item
-Record the quantity of each item remaining
+   Record the quantity sold for every food item
+   Record the quantity of each item remaining
 
 FOR each food item:
-Compare sales across different days 
-Identify items with consistently high sales
-Identify items with consistently low sales
+   Compare sales across different days 
+   Identify items with consistently high sales
+   Identify items with consistently low sales
 
 IF an item has high and consistent demand:
-Increase its expected stock the following day
+   Increase its expected stock the following day
 
 IF an item has low and consistent demand:
-Decrease/retain the current stock the following day 
+   Decrease/retain the current stock the following day 
 
 Repeat the process daily
-
 END
 
 2. Long queues
 
 START
-
 Identify possible causes of long queues:
-Check the number of available payment methods
-Check the time students spend deciding what to order
-Check if food labels and prices are clear
-Check if ordering area is organized
-Check if food space is sufficient
+   Check the number of available payment methods
+   Check the time students spend deciding what to order
+   Check if food labels and prices are clear
+   Check if ordering area is organized
+   Check if food space is sufficient
 
 FOR each identified cause:
-Determine how much it contributes to the queue
+   Determine how much it contributes to the queue
 
 IF there are insufficient payment methods:
-Add or improve available payment methods
+   Add or improve available payment methods
 
 IF students take too long to decide:
-Provide clear food labels, prices and menus
+   Provide clear food labels, prices and menus
 
 IF the ordering area is poorly organized:
-Improve the arrangement and flow of the area
+   Improve the arrangement and flow of the area
 
 IF the food space causes delays:
-Rearrange the space for easier movement
+   Rearrange the space for easier movement
 
 Repeat the observation and improvement process
-
 END
 
 3. No program for calculation (Both)
-
-- Generalization:
-
-START
-
-Identify steps:
-Select food items
-Identify item prices
-Enter quantities
-Calculate the total cost
-Enter payment
-Calculate change
-Display the result
-
-the system would work for:
-Different food items
-Different quantities
-Different payment methods
-Different order totals
-
-END
-
-- Algorithmic thinking:
 
 START
 
@@ -117,7 +91,7 @@ Display the list of food items and prices
 INPUT selected food item
 INPUT quantity
 
-calculate:
+Calculate:
 Item total = price x quantity
 
 Repeat for every selected item
@@ -131,15 +105,43 @@ IF payment method is digital:
 Process digital payment
 
 ELSE:
-INPUT amount paid
+   INPUT amount paid
 Calculate:
-Change = amount paid - total cost
-Display change
+   Change = amount paid - total cost
+   Display change
 
 Display:
-Order summary
-Total cost
-Payment status
+   Order summary
+   Total cost
+   Payment status
 
+END
+
+4. Slow payment methods and ordering times
+
+START
+Display the menu with food items and prices
+
+Student selects food items
+
+Display the selected items and total price
+
+Student confirms the order
+
+IF order is confirmed:
+   Choose a payment method
+
+IF digital payment is selected:
+   Process digital payment
+
+ELSE:
+   Receive manual payment
+   Calculate change
+
+Confirm successful payment
+
+Prepare the order
+
+Notify the student when the order is ready
 END
 ```
