@@ -12,7 +12,7 @@ The PSHS school canteen crowds during break times and lunch periods. The vendors
 
 1. No system for food stock - Food stock is not tracked correctly, so it would take time to manually view the inventory and see what to order in bulk. This would take days before an, essentially popular, item is restocked.
 2. Long queues - Students are affected by the long waiting times. In unlucky situations, they end up not eating at all when the queue takes too long and fills the entire period before they could even order.
-3. Manual calculation of totals and change - This contributes to the time problem, and risks miscalculation alongside inefficient methods as they lack a program to make it easier. 
+3.  No program for calculation - Manual calculation of totals and change. This contributes to the time problem, and risks miscalculation alongside inefficient methods as they lack a program to make it easier. 
 4. Slow payment methods - As everything is manual, the student would take too long to order given the lack of a clear structure of ordering. Alongside this, labels aren't clear so it may affect the student's choices.
 
    
@@ -20,10 +20,11 @@ The PSHS school canteen crowds during break times and lunch periods. The vendors
 | Sub-problem | CT-Skill | Example Soluition |
 | :--- | :---: | ---: |
 | No system for food stock | Pattern recognition | Moniter patterns and trends of sales and popular, high in demand items |
-| Long queues | Decomposition | 
-## Installation
+| Long queues | Decomposition | Identify the core reasons, lack of sufficient payment methods and factoring in student's personal decisiveness and environmental factors |
+|  No program for calculation | Generalization/Algorithmic Thinking | - Generalization: Making a general program for payment and ordering in general, involving digital payment methods alongside digital calculations. For those who want to pay manually, they will input the amount they paid and the items they bought digitally through a screen; Algorithmic thinking: Making a structured program or code for calculation. This includes the items, the prices, the input and the outputs. |
+|  Slow payment methods and ordering time | Algorithmic thinking | Structured steps for ordering and a clear, adaptable system |
 
-Clone the repository and install any dependencies required by this project.
+## Pseudocode
 
 ```bash
 # Clone the repo
@@ -50,62 +51,3 @@ Provide one-line and longer usage examples here.
 # npm start
 # python main.py
 ```
-
-## Examples
-
-Describe typical workflows or include code snippets demonstrating common use cases.
-
-```python
-# Example snippet (replace with real example)
-def hello():
-    print("Hello from ctskillsArayatLN")
-
-if __name__ == "__main__":
-    hello()
-```
-
-## Configuration
-
-List configuration options, environment variables, or files to edit.
-
-- CONFIG_VAR: description
-- ANOTHER_CONFIG: description
-
-## Development
-
-Explain how to set up a development environment, run tests, and lint the code.
-
-```bash
-# Run tests (example)
-# pytest
-# or
-# npm test
-```
-
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a branch: `git checkout -b feature/your-feature`
-3. Commit your changes: `git commit -m "Add some feature"`
-4. Push to the branch: `git push origin feature/your-feature`
-5. Open a Pull Request describing your changes
-
-Please adhere to the repository coding standards and include tests for new features or bug fixes.
-
-## License
-
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-- Author: Francesca Marie Raymundo (francescamarieraymundo-boop)
-- Email: <replace-with-email@example.com>
-
-
----
-
-Notes:
-- Replace badges with actual CI/badge links if available.
-- Update install and usage sections to match the project's language and build system.
