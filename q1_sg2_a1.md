@@ -3,8 +3,8 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/francescamarieraymundo-boop/q1)
 
-# Step 1. Annex A
-## Main problem
+# Annex A
+## Step 1. Main problem
 
 The PSHS school canteen crowds during break times and lunch periods. The vendors lack a system, hence manual labor is done, causing inefficiency
 
