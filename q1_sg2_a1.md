@@ -1,13 +1,12 @@
 # ctskillsArayatLN
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/francescamarieraymundo-boop/q1)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/francescamarieraymundo-boop/q1
 
-13/08/26
-### Members
-- 28# Keisha Abbiel B. Ramos (Pseudocode, Information) 
-- 29# Francesca Marie A. Raymundo (Coder, Information)
-- 30# Aila Yumi P. Sabado
+| | |
+| :--- | :--- |
+| *Section:* Arayat | *Score*: ___ |
+| *C# Name:* 28# Keisha Abbiel B. Ramos (Pseudocode, Information) : 29# Francesca Marie A. Raymundo (Coder, Information) : 30# Aila Yumi P. Sabado (Member) | *Date08:* 13//26 |
 
 # Annex A
 ## Step 1. Main problem
