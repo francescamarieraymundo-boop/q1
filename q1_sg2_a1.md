@@ -3,10 +3,11 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/francescamarieraymundo-boop/q1)
 
+13/08/26
 ### Members
-- 28 Keisha Abbiel B. Ramos (Pseudocode, Information) 
-- 29 Francesca Marie A. Raymundo (Coder, Information)
-- 30 Aila Yumi P. Sabado
+- 28# Keisha Abbiel B. Ramos (Pseudocode, Information) 
+- 29# Francesca Marie A. Raymundo (Coder, Information)
+- 30# Aila Yumi P. Sabado
 
 # Annex A
 ## Step 1. Main problem
