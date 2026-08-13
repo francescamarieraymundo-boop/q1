@@ -1,7 +1,7 @@
 # ctskillsArayatLN
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/francescamarieraymundo-boop/q1
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)]
 
 | | |
 | :--- | :--- |
