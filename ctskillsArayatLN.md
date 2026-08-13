@@ -27,10 +27,6 @@ The PSHS school canteen crowds during break times and lunch periods. The vendors
 ## Step 4. Pseudocode
 
 ```bash
-# Clone the repo
-git clone https://github.com/francescamarieraymundo-boop/q1.git
-cd q1
-
 1. No system of tracking food stock
 
 START
@@ -140,15 +136,4 @@ Total cost
 Payment status
 
 END
-```
-
-## Usage
-
-Provide one-line and longer usage examples here.
-
-```bash
-# Example command to run the project
-# Replace with the actual start/run command for this project
-# npm start
-# python main.py
 ```
