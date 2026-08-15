@@ -11,9 +11,9 @@
 ## Checklist
   | Pseudocode 1 | Pseudocode 2 |
   | :--- | ---: |
-  | [ 1 ] Does the algorithm use one loop or two nested loops?  | [ 2 ] Does the algorithm use one loop or two nested loops?  |
-  | [ No ] Does the algorithm repeat work unecessarily? | [ No ] Does the algorithm repeat work unecessarily? |
-  | [ Pseudocode 1 ] Which algorithm finishes in fewer steps? | [ Pseudocode 1 ] Which algorithm finishes in fewer steps? |
+  | [ 1 ] Does the algorithm use one loop or two nested loops?  | Does the algorithm use one loop or two nested loops? [ 2 ]  |
+  | [ No ] Does the algorithm repeat work unecessarily? | Does the algorithm repeat work unecessarily? [ No ] |
+  | [ Pseudocode 1 ] Which algorithm finishes in fewer steps? | Which algorithm finishes in fewer steps? [ Pseudocode 1 ]  |
 
   ## 2. Readability
   Pseudocode 1 is easier to understand. We can infer that it keeps track of the current maximum and updates it whenever it finds a larger number. It also uses the meaningful variable name max, unlike Pseudocode 2 which has a vaguer variable name (bigger), and has fewer lines of code.
@@ -22,8 +22,27 @@
 ## Checklist
   | Pseudocode 1 | Pseudocode 2 |
   | :--- | ---: |
-  | [ Yes ] Are variable names meaningful (e.g., max vs. bigger)?  | [ No ] Are variable names meaningful (e.g., max vs. bigger)? |
-  | [ Simple ] Is the logic simple or complicated?  | [ Complicated ] Is the logic simple or complicated? |
-  | [ Yes ] Are there fewer lines of code? | [ No ] Are there fewer lines of code? |
+  | [ Yes ] Are variable names meaningful (e.g., max vs. bigger)?  | Are variable names meaningful (e.g., max vs. bigger)? [ No ] |
+  | [ Simple ] Is the logic simple or complicated?  | Is the logic simple or complicated? [ Complicated ] |
+  | [ Yes ] Are there fewer lines of code? | Are there fewer lines of code? [ No ] |
 
+
+  ## 3. Maintainability 
+  Pseudocode 1 would be easier to update. Its structure is straightforward, so you can add another comparison for the minimum within the same loop. Pseudocode 2 has nested loops and more complicated logic, making it harder to modify without introducing errors.
+
+  ## Checklist
+  | Pseudocode 1 | Pseudocode 2 |
+  | :--- | ---: |
+  | [ Yes ] Is the structure straightforward? | Is the structure straightforward? [ No ] |
+  | [ No ] Would adding new steps break the code easily?  | Would adding new steps break the code easily? [ Yes ] |
+  | [ Yes ] Is there less chance of errors when updating?  | Is there less chance of errors when updating?  [ No ] |
+
+  ## 4. Testability
+  Pseudocode 1 is easier to test because it has a simpler structure and fewer conditions. Its output is also easy to predict for different lists of numbers.
   
+ ## Checklist
+  | Pseudocode 1 | Pseudocode 2 |
+  | :--- | ---: |
+  | [ Yes ] Is the structure straightforward? | Is the structure straightforward? [ No ] |
+  | [ No ] Would adding new steps break the code easily?  | Would adding new steps break the code easily? [ Yes ] |
+  | [ Yes ] Is there less chance of errors when updating?  | Is there less chance of errors when updating?  [ No ] |
