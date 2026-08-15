@@ -1,7 +1,7 @@
 | | |
 | :--- | :--- |
 | *Section:* Arayat | *Score*: ___ |
-| *C# Name:* 28# Keisha Abbiel B. Ramos (Pseudocode, Information) : 29# Francesca Marie A. Raymundo (Coder, Information) : 30# Aila Yumi P. Sabado (Member) | *Date:* 08/13//26 |
+| *C# Name:* 28# Keisha Abbiel B. Ramos (Pseudocode, Information) : 29# Francesca Marie A. Raymundo (Coder, Information) : 30# Aila Yumi P. Sabado (Member) | *Date:* 08/16//26 |
 
 # Annex C
 ## 1. Efficiency
@@ -43,6 +43,21 @@
  ## Checklist
   | Pseudocode 1 | Pseudocode 2 |
   | :--- | ---: |
-  | [ Yes ] Is the structure straightforward? | Is the structure straightforward? [ No ] |
-  | [ No ] Would adding new steps break the code easily?  | Would adding new steps break the code easily? [ Yes ] |
-  | [ Yes ] Is there less chance of errors when updating?  | Is there less chance of errors when updating?  [ No ] |
+  | [ Yes ] Can you test with small lists easily? | Can you test with small lists easily? [ Yes ] |
+  | [ Yes ] Does the algorithm have fewer conditions to check? | Does the algorithm have fewer conditions to check? [ No ] |
+  | [ Yes ] Is the output predictable and clear? | Is the output predictable and clear?  [ Yes ] |
+
+  ## 5. Security
+  The algorithm should check that the list is not empty and that all inputs are valid numbers. It should also handle unusual or invalid inputs without crashing.
+
+  ## Checklist
+  | Pseudocode 1 | Pseudocode 2 |
+  | :--- | ---: |
+  | [ No  ] Does the algorithm check if the list is empty? | Does the algorithm check if the list is empty? [ No ] |
+  | [ No ] Does it handle invalid inputs (like letters instead of numbers)? | Does it handle invalid inputs (like letters instead of numbers)? [ No ] |
+  | [ No  ]Does it avoid crashing when inputs are unusual? | Does it avoid crashing when inputs are unusual?  [ No ] |
+    
+    All answers are no, because the pseudocode didn't factor in the security and only focused on the functionality.
+
+  ## 6. Final answer
+  Overall, pseudocode 1 is the better algorithm. It is faster, easier to understand, easier to maintain, and easier to test. It uses only one loop and avoids unnecessary comparisons, making it more efficient and simpler than Pseudocode 2. However, both algorithms should be improved by adding checks and better security for empty lists and invalid inputs to make sure that the code counts for all possibilities.
